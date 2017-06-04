@@ -1,6 +1,4 @@
-This is my first reposition!
-
-I need to add some text here.
-
-Update with Bash..
-Updating..
+Change here...
+Updating with new line here
+Turquoise...
+Dots here...
